@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CdKq/Z76kxf3/Xh2VGAkAEBlQ7iOFplKKSt1naJUxLFERjU56D86VGWOvvneu4pXnWeq4E4U6IgWtOQ+KbIEYQ==",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\vitomino\\Programming\\College\\Semester4\\ED\\TPFinal\\AtividadeFinalED\\AtividadeFinalED\\AtividadeFinalED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

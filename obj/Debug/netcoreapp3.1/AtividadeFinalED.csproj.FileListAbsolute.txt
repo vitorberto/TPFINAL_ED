@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.exe
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.deps.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.dll
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\bin\Debug\netcoreapp3.1\AtividadeFinalED.pdb
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.dll
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.pdb
+\\wsl.localhost\Ubuntu\home\vitomino\Programming\College\Semester4\ED\TPFinal\AtividadeFinalED\AtividadeFinalED\obj\Debug\netcoreapp3.1\AtividadeFinalED.genruntimeconfig.cache
